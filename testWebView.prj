@@ -6,6 +6,7 @@
    <UUID>eb592157-936c-46be-a99a-c123d7fe9d01</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/dominiquemereaux/git/testWebView/testWebView.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
